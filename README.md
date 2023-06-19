@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Thai-Moraes
-- 👀 I’m interested in learning new things!
-- 🌱 I’m currently learning C++ and Python
+# Welcome!
 
-<!---
-Thai-Moraes/Thai-Moraes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Salve, salve! Tenho 15 anos e estou tentando aprender programação do zero para criar os meus mais loucos projetos. Aqui é aonde estará todos os meus códigos atuais e futuros.
+
+- 🖥️ Estudando C++ e Python.
+- 👾 Interessada em IA, Linux e desenvolvimento de softwares.
+- 📝 Desenvolvendo um editor de texto usando Python e Tkinter
+
