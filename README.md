@@ -4,5 +4,5 @@ Salve, salve! Tenho 15 anos e estou tentando aprender programação do zero para
 
 - 🖥️ Estudando C++ e Python.
 - 👾 Interessada em IA, Linux e desenvolvimento de softwares.
-- 📝 Desenvolvendo um editor de texto usando Python e Tkinter
+
 
