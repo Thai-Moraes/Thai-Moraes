@@ -13,4 +13,7 @@ Salve, salve! Tenho 15 anos e estou tentando aprimorar minhas habilidades de pro
 - Interessada em IA, Linux e desenvolvimento de jogos;
 - Brincando com HTML, CSS e JavaScript.
 - Objetivo de trabalhar com Dados e/ou Machine Learning
+  
+___
 
+[![Thai-Moraes](https://github-readme-stats.vercel.app/api/top-langs/?username=Thai-Moraes&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
