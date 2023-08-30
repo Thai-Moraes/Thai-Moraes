@@ -11,5 +11,5 @@ def taichi():
 Salve, salve! Tenho 15 anos e estou tentando aprimorar minhas habilidades de programação criando projetos malucos e estranhos. Aqui ficará todas as atualizações dessa minha jornada!
 
 - Interessada em IA, Linux e desenvolvimento de jogos;
-- Brincando com HTML, CSS e JavaScript;
+- Brincando com HTML e CSS;
 - Objetivo de trabalhar com Dados e/ou Machine Learning.
